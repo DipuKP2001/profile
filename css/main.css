@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+	font-family: Comic Sans MS, Arial;
+	margin: 25px;
+}
+.social-links{
+	list-style-position: all;
+	list-style-type: none;
+}
+#profile-pic{
+	width: 75%;
+	height: 80%;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#devskills{
+	padding-left: 15%;
+}
